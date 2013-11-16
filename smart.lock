@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "drupal": {
+        "path": "../meteor-drupal"
+      }
+    },
+    "packages": {
+      "drupal": {
+        "path": "../meteor-drupal"
+      }
+    }
+  }
+}
